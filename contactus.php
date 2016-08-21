@@ -41,7 +41,7 @@
 								<div class="row no-collapse 50% uniform">
 									<div class="3u">Phone No:</div>
 									<div class="9u">
-										<code>+91 98309 24108</code><br>
+										
 										<code>+91 033 2486-2480</code> <br>
 										<code>+91 033 2486-3298</code>
 									</div>
